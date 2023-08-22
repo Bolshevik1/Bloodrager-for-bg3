@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="he67adf6dga6a1g48e2g8fd9gf5ad00c14f4a" version="1">The bloodrager's source of internal power grants him the ability to bloodrage.</content>
+	<content contentuid="hde8f37cdg7fe0g41baga839g182c3988670a" version="1">Bloodrage</content>
+	<content contentuid="h32a62b8fg10f7g4b72g95a5g8b98f1ce47c7" version="1">Bloodragers possess an innate ability to engage arcane powers from their bloodlines through sheer rage. Their anger can draw them into a state of bloodrage that manifests their fury in supernatural ways determined by their ancestral heritage.</content>
+	<content contentuid="h96c08f91g297cg463cgae9egbf2792281e73" version="1">Bloodrager</content>
+	<content contentuid="hc1c3c484g3398g45e2g9df2g07383530b296" version="1">While bloodrage powers come from the very essence of a bloodrager’s being and are often strict and immutable, some bloodragers tap into ancient traditions and primitive wisdom to enhance their rages with something more primal. The primalist mixes his bloodline with more traditional rage powers</content>
+	<content contentuid="hc2489ab6ge7adg4172g9ac8g795ce85d2d12" version="1">Primalist</content>
+	<content contentuid="hc2de9e99g9e78g4980gbb78ga0b402d1e1fb" version="1">Bloodrage</content>
+	<content contentuid="h2787e236gb735g4a8dgb6b8g1a89e0847c93" version="1">The user enters a bloodrage. The Bloodrager gains +2 bonus on attackrolls and damagerolls, a +2 to wisdome savingthrows, and 2*classlevel temporary hp. at the cost of -2 AC</content>
+	<content contentuid="hc74a6c2bg7741g4593gb98agb9250ff05661" version="1">Red Dragon Bloodline</content>
+	<content contentuid="h1518d9c5g7330g4853gb7ffg227ec24b57c6" version="1">Draconic bloodline</content>
+	<content contentuid="h43fcc8e4g0f98g4e51g90eagf6af1c5e69d2" version="1">Choose a bloodline</content>
+	<content contentuid="hd5ca089dg23f8g49e4g8d7fg02108d3c054f" version="1">Bloodlines</content>
+	<content contentuid="hdd8ca631g9f17g4251gaa65gbd162d6a2d06" version="1">Abyssal</content>
+	<content contentuid="h2ce28d57gdec5g47b8gbc55g8c8f94d80485" version="1">Abyssal Bloodline</content>
+	<content contentuid="hdd4aee8dg6323g4afbgb659g0872e0241abf" version="1">Arcane</content>
+	<content contentuid="h024a0a18g0e46g4028gb294g3d85e3528d30" version="1">Arcane Bloodline</content>
+	<content contentuid="haaf638dbg0756g463egb7daga6489c4be75d" version="1">Celestial</content>
+	<content contentuid="hf6aa7b6cg4df1g4726gbc53g889dc0a8a2aa" version="1">Celestial Bloodline</content>
+	<content contentuid="hf6a39941g4ad2g4ee7ga906ga6746afb626c" version="1">Fey</content>
+	<content contentuid="h5a43bb2ag5cd4g489bg82d4g9252dd853189" version="1">Fey Bloodline</content>
+	<content contentuid="hb47f969dge877g42d3gb80ag1dfe2116bb5c" version="1">Infernal</content>
+	<content contentuid="h943adfdfg4a3cg41d5g9d3fge3828b924a5a" version="1">Infernal Bloodline</content>
+	<content contentuid="h3cf8136agc7d2g4b80gafdfg7ba87d90e021" version="1">Serpentine</content>
+	<content contentuid="hd15c76e1gbfbag4b8bgbe03ge0c54335bf41" version="1">Serpentine Bloodline</content>
+	<content contentuid="hdc12bfd2g6b3fg4ea6g9325g00a65ffedca4" version="1">Undead</content>
+	<content contentuid="h9f243c3fge51fg4a2agabe0g5092e5414c88" version="1">Undead Bloodline</content>
+	<content contentuid="he3a7391dg4733g49d2ga502gd85190576dc4" version="1">Generic Elemental Bloodline Description</content>
+	<content contentuid="h001a7178gb2ddg46d7g884ag2a6ccc8c8809" version="1">Elemental -Air</content>
+	<content contentuid="h54aed73eg73a5g4856gba6bg040dfd378569" version="1">Elemental - Earth</content>
+	<content contentuid="h1d670599g794dg4f73g9344g0949c19a8033" version="1">Elemental - Fire</content>
+	<content contentuid="h9ba2bab8g9549g4a57g9377ge4f43815da48" version="1">Elemental - Water</content>
+	<content contentuid="h564853e1g71ecg46c4g991eg363b35c85535" version="1">At some point in your family’s history, a dragon interbred with your bloodline. Now, the sublime monster’s ancient power fuels your bloodrage. You have grown claws. You receive the following Bonus Spells: Shield (7th), resist energy (10th), fly (13th), fear (16th).</content>
+	<content contentuid="h04e6c34eg8939g462agb21fgb4da13707639" version="1">Draconic - Black</content>
+	<content contentuid="h5f4804c1g66cbg4cd6g9af0gc7fba956cc8b" version="1">Draconic - Blue</content>
+	<content contentuid="h0e7d0e18g0a3eg4ca1g9c7ege98e779340d0" version="1">Draconic - Brass</content>
+	<content contentuid="h6d560619g1be1g400agaab8g54c16eeba937" version="1">Draconic - Bronze</content>
+	<content contentuid="h83dd7dc4g663eg49dfg8983g65e5e46d9e1e" version="1">Draconic - Copper</content>
+	<content contentuid="hfb727dcbga024g4af3ga2f5g0ddf93903840" version="1">Draconic - Gold</content>
+	<content contentuid="he9b44276g4dedg45edg861bg96682a3506db" version="1">Draconic - Green</content>
+	<content contentuid="h5be31825g3c12g4b7agb91dg988a8d8ae36c" version="1">Draconic - Red</content>
+	<content contentuid="h2cfa38b2ga0afg4c28gbe26g0895b37c28a8" version="1">Draconic - Silver</content>
+	<content contentuid="hf629fd68g17cdg4a7aga269gdee632cbd83b" version="1">Draconic - White</content>
+	<content contentuid="hc9b9fd72g09c7g4670gba10g282b5b496adc" version="1">Draconic Wings</content>
+	<content contentuid="h5a4efb25g862ag4d7fgadc4g915482d2c917" version="1">When entering a Bloodrage you grow draconic wings from your back</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+
+</contentList>
