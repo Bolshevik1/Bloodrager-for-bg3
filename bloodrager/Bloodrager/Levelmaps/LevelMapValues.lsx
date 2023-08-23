@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+			    <node id="LevelMapSeries">
+                    <attribute id="Level7" type="LSString" value="1"/>
+                    <attribute id="Level10" type="LSString" value="2"/>
+                    <attribute id="Level13" type="LSString" value="3"/>
+                    <attribute id="Level16" type="LSString" value="4"/>
+                    <attribute id="Level19" type="LSString" value="5"/>
+                    <attribute id="Name" type="FixedString" value="DamageReduction"/>
+                    <attribute id="UUID" type="guid" value="a09ebf72-5532-4f0e-995e-09104c1cda16"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

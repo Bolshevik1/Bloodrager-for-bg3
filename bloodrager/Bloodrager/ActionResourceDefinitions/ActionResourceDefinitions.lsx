@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="he67adf6dga6a1g48e2g8fd9gf5ad00c14f4a" version="7"/> A text tied to the .loca file
+                    <attribute id="DisplayName" type="TranslatedString" handle="hde8f37cdg7fe0g41baga839g182c3988670a" version="6"/> A text tied to the .loca file
+					<attribute id="DiceType" type="uint32" value="0"/> If the resource has any dice type, like Superiority die from BM
+					<attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
+					<attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+					<attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="Bloodrage"/> What you will be referring to in your code
+					<attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/> Rest = Long Rest, ShortRest = ShortRes
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
+                    <attribute id="UUID" type="guid" value="d6296880-308a-4b2d-8fd7-708467375418"/> UUID for the Resource, give it a new one
+					<attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/> Would this resource be used at different power levels
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_ChromaticOrb;Target_MageArmor;Target_Smite_Searing;Zone_BurningHands;Shout_FalseLife;Shout_FeatherFall;Projectile_IceKnife;Target_MageArmor;Target_Smite_Thunderous;Target_Smite_Wrathful;Projectile_RayOfSickness;Target_Jump;Target_Longstrider;Target_ShockingGrasp;Target_TrueStrike"/>
+                    <attribute id="Level" type="int32" value="4"/>
+                    <attribute id="SelectorId" type="LSString" value="BloodragerSpells"/>
+                    <attribute id="TableUUID" type="guid" value="c2fc9ffe-74fb-428c-b50e-f96b80608726"/>
+                    <attribute id="UUID" type="guid" value="578e99ac-a01f-4b8e-85c8-1fb225ee057a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
