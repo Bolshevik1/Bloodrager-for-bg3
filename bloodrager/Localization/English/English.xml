@@ -7,7 +7,9 @@
 	<content contentuid="hc1c3c484g3398g45e2g9df2g07383530b296" version="1">While bloodrage powers come from the very essence of a bloodrager’s being and are often strict and immutable, some bloodragers tap into ancient traditions and primitive wisdom to enhance their rages with something more primal. The primalist mixes his bloodline with more traditional rage powers</content>
 	<content contentuid="hc2489ab6ge7adg4172g9ac8g795ce85d2d12" version="1">Primalist</content>
 	<content contentuid="hc2de9e99g9e78g4980gbb78ga0b402d1e1fb" version="1">Bloodrage</content>
-	<content contentuid="h2787e236gb735g4a8dgb6b8g1a89e0847c93" version="1">The user enters a bloodrage. The Bloodrager gains +2 bonus on attackrolls and damagerolls, a +2 to wisdome savingthrows, and 2*classlevel temporary hp. at the cost of -2 AC</content>
+	<content contentuid="h2787e236gb735g4a8dgb6b8g1a89e0847c93" version="1">The user enters a bloodrage. The Bloodrager gains +3 bonus on attackrolls and damagerolls, a +2 to wisdomesavingthrows, and 2*classlevel temporary hp. at the cost of -2 AC</content>
+	<content contentuid="h8c58e90ega2aeg43f6gb346gcc49e79dc005" version="1">Greater Bloodrage</content>
+	<content contentuid="h35449d9ag00c6g4611g93a1ge8e252fe5c72" version="1">The user enters a bloodrage. The Bloodrager gains +3 bonus on attackrolls and damagerolls, a +3 to wisdom savingthrows, and 2*classlevel temporary hp. at the cost of -2 AC</content>
 	<content contentuid="hc74a6c2bg7741g4593gb98agb9250ff05661" version="1">Red Dragon Bloodline</content>
 	<content contentuid="h1518d9c5g7330g4853gb7ffg227ec24b57c6" version="1">Draconic bloodline</content>
 	<content contentuid="h43fcc8e4g0f98g4e51g90eagf6af1c5e69d2" version="1">Choose a bloodline</content>
@@ -44,14 +46,14 @@
 	<content contentuid="hf629fd68g17cdg4a7aga269gdee632cbd83b" version="1">Draconic - White</content>
 	<content contentuid="hc9b9fd72g09c7g4670gba10g282b5b496adc" version="1">Draconic Wings</content>
 	<content contentuid="h5a4efb25g862ag4d7fgadc4g915482d2c917" version="1">When entering a Bloodrage you grow draconic wings from your back</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hfdbfae63g06c5g4826ga9bdg0072d68f1845" version="1">Fast Movement</content>
+	<content contentuid="h48ec272cg0b40g4344g98deg90bde20fc0a6" version="1">A barbarian's/bloodrager's land speed is faster than the norm for her race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor, and not carrying a heavy load.</content>
+	<content contentuid="h5f50fd18g1465g4734g96ebg9892bee9775b" version="1">Blood Sanctuary</content>
+	<content contentuid="h830b4f10g23c3g446ag96e8g4b7af97ca826" version="1">At 3rd level, due to the power of his blood, a Bloodrager can stand confidently amid the effects of spells cast by himself or his allies. He gains a +2 bonus on saving throws against spells that he or an ally casts.</content>
+	<content contentuid="h60b75f99g4bf9g40c5gbefagbd4aaa3ab8d0" version="1">Improved Uncanny Dodge</content>
+	<content contentuid="h7393c5fcgf28cg4a69ga6aagce0d59c773a0" version="1">The Character can no longer be threatend</content>
+	<content contentuid="h44635f17g4790g4106g822bgfeb7cab58c58" version="1">Damage Reduction</content>
+	<content contentuid="hf689ef5cge599g4f57g8656ge9e772e7bf48" version="1">At 7th level, a bloodrager gains damage reduction. Subtract 1 from the damage the bloodrager takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every 3 levels thereafter, this damage reduction increases by 1 point.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
